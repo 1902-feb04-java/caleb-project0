@@ -1,0 +1,15 @@
+.page-title {
+    color: lightblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#business-card-template {
+    border: 1px solid black;
+    background-color: lightblue;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
